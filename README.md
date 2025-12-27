@@ -102,6 +102,6 @@ I'm deeply focused on technology and working towards becoming a back-end develop
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-
+<br clear="all"/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ArtursPereira)](https://git.io/streak-stats)
