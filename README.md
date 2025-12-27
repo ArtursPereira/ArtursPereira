@@ -2,7 +2,7 @@
 
 **`Developer Back-End`**
 
-My name is Artur Pereira da Silva, I'm 22 years old and I live in Campos dos Goytacazes-RJ, Brazil. I'm currently in the 6th semester of Computer Science at UENF.
+My name is Artur Pereira da Silva, I'm 22 years old and I live in Campos dos Goytacazes-RJ, Brazil. I'm currently in the 7th semester of Computer Science at UENF.
 
 I'm deeply focused on technology and working towards becoming a back-end developer, specializing in **Java with Spring Boot**. I'm also studying **Angular** to complement my front-end skills, and soon I'll be exploring **Docker** and **deployment** practices to master the full development cycle.
 
